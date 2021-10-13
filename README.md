@@ -2,7 +2,7 @@
 
 [![Website](https://img.shields.io/website?down_color=red&down_message=DOWN&label=martoen.nl&style=for-the-badge&up_color=green&up_message=UP&url=https%3A%2F%2Fmartoen.nl)](https://martoen.nl)
 
-## I'm a learning developer and a student!!
+## I'm a learning developer and student!!
 
 - 🌱 I’m currently learning Android development.
 - 🥅 2021 Goals: Learn more about mobile development.
