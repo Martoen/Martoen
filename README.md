@@ -4,8 +4,8 @@
 
 ## I'm a learning developer and student!!
 
-- 🌱 I’m currently learning Android development.
-- 🥅 2021 Goals: Learn more about mobile development.
+- 🌱 I’m currently learning Django and Svelte.
+- 🥅 2022 Goals: Learn more about Web development and backend stuff.
 
 ### Connect with me:
 
