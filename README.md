@@ -1,7 +1,5 @@
 ### Hi there, I'm Martijn 👋
 
-[![Website](https://img.shields.io/website?down_color=red&down_message=DOWN&label=martoen.nl&style=for-the-badge&up_color=green&up_message=UP&url=https%3A%2F%2Fmartoen.nl)](https://martoen.nl)
-
 ## I'm a learning developer and student!!
 
 - 🌱 I’m currently learning Django and Svelte.
@@ -9,7 +7,6 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Martoen.nl" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Martijn | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
@@ -33,5 +30,4 @@
 
 </details>
 
-[website]: https://martoen.nl
 [linkedin]: https://www.linkedin.com/in/martijn-schermers
